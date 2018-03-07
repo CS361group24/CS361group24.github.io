@@ -1,1 +1,1 @@
-# CS361group24.github.io
+# http://CS361group24.github.io
